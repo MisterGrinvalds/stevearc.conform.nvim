@@ -463,6 +463,8 @@ FORMATTERS                                                    *conform-formatter
 `ocp-indent` - Automatic indentation of OCaml source files.
 `odinfmt` - Auto-formatter for the Odin programming language.
 `opa_fmt` - Format Rego files using `opa fmt` command.
+`openapi_format` - Format an OpenAPI document by ordering, formatting and
+                 filtering fields.
 `ormolu` - A formatter for Haskell source code.
 `oxfmt` - A Prettier-compatible code formatter.
 `oxlint` - An oxidized replacement for ESLint that fixes lint errors.
